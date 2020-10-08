@@ -1,0 +1,8 @@
+__pycache__
+reddit/
+test/
+sentencepiece/all_files.txt
+sentencepiece/m.model
+sentencepiece/m.vocab
+compareBert/.ipynb_checkpoints/
+splittingWikifiers/.ipynb_checkpoints/
